@@ -2,8 +2,8 @@ package com.jimilee.calculator;
 
 import org.springframework.stereotype.Service;
 
-/*
-javadoc
+/** This is calcluator sevice class
+    Hongtaek Ju
 */
 @Service
 public class Calculator{

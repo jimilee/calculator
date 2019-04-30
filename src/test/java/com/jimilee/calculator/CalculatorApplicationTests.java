@@ -4,8 +4,8 @@ import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringRunner;
-/*
-javadoc
+/** This is calcluator sevice class
+    Jimi
 */
 @RunWith(SpringRunner.class)
 @SpringBootTest

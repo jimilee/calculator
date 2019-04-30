@@ -1,8 +1,8 @@
 package com.jimilee.calculator;
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
-/*
-javadoc
+/** This is calcluator sevice class
+    Jimi
 */
 public class CalculatorTest{
 	private Calculator calculator = new Calculator(); 
