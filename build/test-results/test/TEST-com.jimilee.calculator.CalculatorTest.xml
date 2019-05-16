@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.jimilee.calculator.CalculatorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-04-30T05:53:37" hostname="student-HP-ProDesk-400-G2-MT-TPM-DP" time="0.001">
+<testsuite name="com.jimilee.calculator.CalculatorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-05-09T06:47:17" hostname="student-HP-ProDesk-400-G2-MT-TPM-DP" time="0.0">
   <properties/>
-  <testcase name="testSum" classname="com.jimilee.calculator.CalculatorTest" time="0.001"/>
+  <testcase name="testSum" classname="com.jimilee.calculator.CalculatorTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
